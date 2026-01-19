@@ -4,12 +4,12 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-## ✨ Overview
+## Overview
 
 This project is a **command-line implementation** of **TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution)** 📈, built from scratch in Python. It provides a robust CLI tool for multi-criteria decision making with comprehensive input validation and error handling.
 ---
 
-## 🧐 What is TOPSIS?
+## 🧐 About TOPSIS
 
 TOPSIS is a widely-used **Multi-Criteria Decision Making (MCDM)** technique that ranks alternatives based on multiple criteria.
 
